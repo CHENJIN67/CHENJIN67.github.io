@@ -1,2 +1,3 @@
-# CHENJIN67.github.io
-这是我的简历
+This is my resume.
+===
+    I use HTML and CSS to design my resume.
